@@ -1,5 +1,5 @@
 # CODSOFT-TASK3
-Name- Harshita sinha
+Name- Anand Kumar
 
 Company- CODSOFT
 
